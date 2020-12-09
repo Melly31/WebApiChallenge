@@ -19,5 +19,6 @@ namespace CustomerManagement.Models
         public int County { get; set; }
         public int Postcode { get; set; }
         public int Country { get; set; }
+        public bool IsActive { get; set; }
     }
 }
