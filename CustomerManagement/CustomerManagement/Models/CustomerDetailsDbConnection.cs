@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CustomerManagement.CustomerDetails
+namespace CustomerManagement.Models
 {
     public class CustomerDetailsDbConnection : DbContext
     {
@@ -12,8 +12,6 @@ namespace CustomerManagement.CustomerDetails
         {
 
         }
-        public DbSet<CustomerContactDetails> CustomerContactDetails { get; set; }
-        public DbSet<CustomerAddressDetails> CustomerAddressDetails { get; set; }
-
+        public DbSet<CustomerDetails> CustomerDetails { get; set; }
     }
 }
