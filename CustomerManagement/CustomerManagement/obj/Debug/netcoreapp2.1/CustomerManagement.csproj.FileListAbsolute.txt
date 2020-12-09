@@ -1,0 +1,13 @@
+C:\Users\melho\Code\WebApiChallenge\WebApiChallenge\CustomerManagement\CustomerManagement\bin\Debug\netcoreapp2.1\CustomerManagement.deps.json
+C:\Users\melho\Code\WebApiChallenge\WebApiChallenge\CustomerManagement\CustomerManagement\bin\Debug\netcoreapp2.1\CustomerManagement.runtimeconfig.json
+C:\Users\melho\Code\WebApiChallenge\WebApiChallenge\CustomerManagement\CustomerManagement\bin\Debug\netcoreapp2.1\CustomerManagement.runtimeconfig.dev.json
+C:\Users\melho\Code\WebApiChallenge\WebApiChallenge\CustomerManagement\CustomerManagement\bin\Debug\netcoreapp2.1\CustomerManagement.dll
+C:\Users\melho\Code\WebApiChallenge\WebApiChallenge\CustomerManagement\CustomerManagement\bin\Debug\netcoreapp2.1\CustomerManagement.pdb
+C:\Users\melho\Code\WebApiChallenge\WebApiChallenge\CustomerManagement\CustomerManagement\obj\Debug\netcoreapp2.1\CustomerManagement.csproj.CoreCompileInputs.cache
+C:\Users\melho\Code\WebApiChallenge\WebApiChallenge\CustomerManagement\CustomerManagement\obj\Debug\netcoreapp2.1\CustomerManagement.RazorAssemblyInfo.cache
+C:\Users\melho\Code\WebApiChallenge\WebApiChallenge\CustomerManagement\CustomerManagement\obj\Debug\netcoreapp2.1\CustomerManagement.RazorAssemblyInfo.cs
+C:\Users\melho\Code\WebApiChallenge\WebApiChallenge\CustomerManagement\CustomerManagement\obj\Debug\netcoreapp2.1\CustomerManagement.AssemblyInfoInputs.cache
+C:\Users\melho\Code\WebApiChallenge\WebApiChallenge\CustomerManagement\CustomerManagement\obj\Debug\netcoreapp2.1\CustomerManagement.AssemblyInfo.cs
+C:\Users\melho\Code\WebApiChallenge\WebApiChallenge\CustomerManagement\CustomerManagement\obj\Debug\netcoreapp2.1\CustomerManagement.RazorTargetAssemblyInfo.cache
+C:\Users\melho\Code\WebApiChallenge\WebApiChallenge\CustomerManagement\CustomerManagement\obj\Debug\netcoreapp2.1\CustomerManagement.dll
+C:\Users\melho\Code\WebApiChallenge\WebApiChallenge\CustomerManagement\CustomerManagement\obj\Debug\netcoreapp2.1\CustomerManagement.pdb
