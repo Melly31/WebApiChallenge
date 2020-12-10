@@ -13,12 +13,12 @@ namespace CustomerManagement.Unit_Testing
             this.list = list;
         }
 
-        public object GetProduct(int v)
+        public object GetDetails(int v)
         {
             throw new NotImplementedException();
         }
 
-        internal List<CustomerDetails> GetTestProducts()
+        internal List<CustomerDetails> GetTestDetails()
         {
             throw new NotImplementedException();
         }

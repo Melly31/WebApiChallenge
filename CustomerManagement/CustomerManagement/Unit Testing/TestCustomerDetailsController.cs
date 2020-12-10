@@ -13,33 +13,33 @@ namespace CustomerManagement.Unit_Testing
     public class TestCustomerDetailsController
     {
         [TestMethod]
-        public void GetAllProducts_ShouldReturnAllProducts()
+        public void GetAllCustomerDetails_ShouldReturnAllCustomerDetails()
         {
-            var testProducts = GetTestProducts();
-            var controller = new Mock<CustomerDetailsController>(testProducts);
+            var testDetails = GetTestDetails();
+            var controller = new Mock<CustomerDetailsController>(testDetails);
 
-            var result = controller.GetTestProducts() as List<CustomerDetails>;
-            Assert.AreEqual(testProducts.Count, result.Count);
+            var result = controller.GetTestDetails() as List<CustomerDetails>;
+            Assert.AreEqual(testDetails.Count, result.Count);
         }
 
         [TestMethod]
-        public void GetProduct_ShouldNotFindProduct()
+        public void GetCustomerDetails_ShouldNotFindCustomerDetails()
         {
-            var controller = new Mock<CustomerDetailsController>(GetTestProducts());
+            var controller = new Mock<CustomerDetailsController>(GetTestDetails());
 
-            var result = controller.GetProduct(999);
+            var result = controller.GetDetails(999);
             Assert.IsInstanceOfType(result, typeof(NotFoundResult));
         }
 
-        private List<CustomerDetails> GetTestProducts()
+        private List<CustomerDetails> GetTestDetails()
         {
-            var testProducts = new List<CustomerDetails>();
-            testProducts.Add(new CustomerDetails { Id = 1, Forename = "Melissa", Surname = "Holmes" });
-            testProducts.Add(new CustomerDetails { Id = 2, Forename = "Paul", Surname = "John" });
-            testProducts.Add(new CustomerDetails { Id = 3, Forename = "Joe", Surname = "Black" });
-            testProducts.Add(new CustomerDetails { Id = 4, Forename = "Gemma", Surname = "Wilson" });
+            var testDetails = new List<CustomerDetails>();
+            testDetails.Add(new CustomerDetails { Id = 1, Forename = "Melissa", Surname = "Holmes" });
+            testDetails.Add(new CustomerDetails { Id = 2, Forename = "Paul", Surname = "John" });
+            testDetails.Add(new CustomerDetails { Id = 3, Forename = "Joe", Surname = "Black" });
+            testDetails.Add(new CustomerDetails { Id = 4, Forename = "Gemma", Surname = "Wilson" });
 
-            return testProducts;
+            return testDetails;
         }
     }
 }
