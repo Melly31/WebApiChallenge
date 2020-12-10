@@ -11,4 +11,3 @@ C:\Users\melho\Code\WebApiChallenge\WebApiChallenge\CustomerManagement\CustomerM
 C:\Users\melho\Code\WebApiChallenge\WebApiChallenge\CustomerManagement\CustomerManagement\obj\Debug\netcoreapp2.1\CustomerManagement.RazorTargetAssemblyInfo.cache
 C:\Users\melho\Code\WebApiChallenge\WebApiChallenge\CustomerManagement\CustomerManagement\obj\Debug\netcoreapp2.1\CustomerManagement.dll
 C:\Users\melho\Code\WebApiChallenge\WebApiChallenge\CustomerManagement\CustomerManagement\obj\Debug\netcoreapp2.1\CustomerManagement.pdb
-C:\Users\melho\Code\WebApiChallenge\WebApiChallenge\CustomerManagement\CustomerManagement\obj\Debug\netcoreapp2.1\CustomerManagement.csprojAssemblyReference.cache
